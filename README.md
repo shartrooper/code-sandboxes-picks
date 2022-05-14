@@ -9,7 +9,10 @@ Some useful code samples links and resources I stumble across browsing around I 
 ## TS Generics guide
 [Source](https://ts.chibicode.com/generics/)
 
-## Comprehensive UseEffect Guide
+## React Best practices
+[Source](https://www.freecodecamp.org/news/best-practices-for-react/#three-major-challenges-react-developers-face)
+
+## Comprehensive react UseEffect Guide
 [Source](https://blog.logrocket.com/guide-to-react-useeffect-hook/)
 
 ## React Query error handling
