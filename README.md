@@ -27,6 +27,9 @@ Some useful code samples links and resources I stumble across browsing around I 
 ## College Compendium courses
 [Source](https://collegecompendium.goldin.io/explore)
 
+## Implementation OOP in Go
+[Source](https://www.makeuseof.com/how-to-implement-object-oriented-programming-concepts-in-go/)
+
 # Code
 ## UseEffect lifecycle with timeout
 [Source](https://codesandbox.io/embed/amazing-shape-tigvln?fontsize=14&hidenavigation=1&theme=dark)
