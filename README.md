@@ -15,6 +15,9 @@ Some useful code samples links and resources I stumble across browsing around I 
 ## Comprehensive react UseEffect Guide
 [Source](https://blog.logrocket.com/guide-to-react-useeffect-hook/)
 
+## Intermediate Typescript and React Handbook. Build typed poly components with Reacts
+[Source](https://www.freecodecamp.org/news/build-strongly-typed-polymorphic-components-with-react-and-typescript/)
+
 ## React Query error handling
 [Source](https://tkdodo.eu/blog/react-query-error-handling)
 
