@@ -36,6 +36,12 @@ Some useful code samples links and resources I stumble across browsing around I 
 ## React Testing guide
 [Source](https://www.freecodecamp.org/news/how-to-test-react-applications/)
 
+## Embedded programming with Rust
+[Source](https://www.freecodecamp.org/news/embedded-rust-programming-on-raspberry-pi-zero-w/)
+
+## Manage Postgres from the CLI with psql
+[Source](https://www.freecodecamp.org/news/manage-postgresql-with-psql/)
+
 # Code
 ## UseEffect lifecycle with timeout
 [Source](https://codesandbox.io/embed/amazing-shape-tigvln?fontsize=14&hidenavigation=1&theme=dark)
