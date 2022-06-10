@@ -34,7 +34,7 @@ Some useful code samples links and resources I stumble across browsing around I 
 [Source](https://www.makeuseof.com/how-to-implement-object-oriented-programming-concepts-in-go/)
 
 ## React Testing guide
-[Soruce](https://www.freecodecamp.org/news/how-to-test-react-applications/)
+[Source](https://www.freecodecamp.org/news/how-to-test-react-applications/)
 
 # Code
 ## UseEffect lifecycle with timeout
