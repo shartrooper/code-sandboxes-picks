@@ -48,6 +48,9 @@ Some useful code samples links and resources I stumble across browsing around I 
 ## CSS comprehensive course
 [Source](https://www.freecodecamp.org/news/learn-css-in-11-hours/)
 
+## How to contribute to open source
+[Source](https://www.freecodecamp.org/news/a-practical-guide-to-start-opensource-contributions/)
+
 # Code
 ## UseEffect lifecycle with timeout
 [Source](https://codesandbox.io/embed/amazing-shape-tigvln?fontsize=14&hidenavigation=1&theme=dark)
