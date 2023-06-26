@@ -2,6 +2,8 @@
 Some useful code samples links and resources I stumble across browsing around I would rather save on here than add it to my bookmars.
 
 # Resources and guides
+## JS one liners.
+[Source](https://www.freecodecamp.org/news/javascript-one-liners-to-use-in-every-project/)
 
 ## TS Advanced Patterns
 [Source](https://www.freecodecamp.org/news/typescript-curry-ramda-types-f747e99744ab)
