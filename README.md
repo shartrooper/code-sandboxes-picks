@@ -29,6 +29,9 @@ Some useful code samples links and resources I stumble across browsing around I 
 ## React Query error handling
 [Source](https://tkdodo.eu/blog/react-query-error-handling)
 
+## Intersection observer React
+[Source](https://blog.logrocket.com/using-react-intersection-observer-create-dynamic-header/)
+
 ## Advanced OpenGL animation techniques
 [Source](https://www.freecodecamp.org/news/advanced-opengl-animation-technique-skeletal-animations/)
 
