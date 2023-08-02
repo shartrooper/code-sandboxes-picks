@@ -17,6 +17,9 @@ Some useful code samples links and resources I stumble across browsing around I 
 ## TS "satisfies" Operator
 [Source](https://www.freecodecamp.org/news/typescript-satisfies-operator/)
 
+## TS 6 ways to use Extract
+[Source](https://www.totaltypescript.com/uses-for-extract-type-helper)
+
 ## React Best practices
 [Source](https://www.freecodecamp.org/news/best-practices-for-react/#three-major-challenges-react-developers-face)
 
