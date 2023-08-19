@@ -5,6 +5,10 @@ Some useful code samples links and resources I stumble across browsing around I 
 ## JS one liners.
 [Source](https://www.freecodecamp.org/news/javascript-one-liners-to-use-in-every-project/)
 
+## "Extract" type TS suggestions
+[Source](https://www.totaltypescript.com/uses-for-extract-type-helper)
+
+
 ## About RSC "ReactServerComponents"
 [Source](https://www.freecodecamp.org/news/how-to-use-react-server-components/)
 ## TS Advanced Patterns
