@@ -7,3 +7,4 @@ Typically built from standard building blocks that provide commonly needed funct
 cessing)
 * Periodically crunch a large amount of accumulated data (batch processing)
 
+![image](https://github.com/shartrooper/learning-sources-pickups/assets/21326996/a42ab246-598e-4519-9a8e-643381f2ee8c)
