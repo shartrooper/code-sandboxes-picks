@@ -17,4 +17,4 @@ load and data volume.
 * The system prevents any unauthorized access and abuse
 
 A fault is usually defined as __one component of the system deviating from its spec__, whereas a failure is when the system as a
-whole stops providing the required service to the user.
+whole __stops providing the required service to the user.__
