@@ -18,3 +18,8 @@ load and data volume.
 
 A fault is usually defined as __one component of the system deviating from its spec__, whereas a failure is when the system as a
 whole __stops providing the required service to the user.__
+
+There are situations in which we may choose to sacrifice reliability in order to reduce
+development cost (e.g., when developing a prototype product for an unproven mar‐
+ket) or operational cost (e.g., for a service with a very narrow profit margin)—but we
+should be very conscious of when we are cutting corners. 
