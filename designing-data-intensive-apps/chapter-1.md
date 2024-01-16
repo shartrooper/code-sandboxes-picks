@@ -39,4 +39,9 @@ users in a chat room, the hit rate on a cache, or something else. Perhaps the av
 case is what matters for you, or perhaps your bottleneck is dominated by a small
 number of extreme cases.
 
+* The best choice of parameters
+depends on the architecture of your system: it may be requests per second to a web
+server, the ratio of reads to writes in a database, the number of simultaneously active
+users in a chat room, the hit rate on a cache, or something else.
+
 
