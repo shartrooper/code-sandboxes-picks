@@ -40,8 +40,11 @@ case is what matters for you, or perhaps your bottleneck is dominated by a small
 number of extreme cases.
 
 * The best choice of parameters
-depends on the architecture of your system: it may be requests per second to a web
+Depends on the architecture of your system: it may be requests per second to a web
 server, the ratio of reads to writes in a database, the number of simultaneously active
 users in a chat room, the hit rate on a cache, or something else.
+
+
+![image](https://github.com/shartrooper/learning-sources-pickups/assets/21326996/e0f5200d-b25b-46c3-91e3-e06319a20028)
 
 
