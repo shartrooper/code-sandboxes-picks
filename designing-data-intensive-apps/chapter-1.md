@@ -1,4 +1,4 @@
-## Data-intensive applications fundamental ##  
+![image](https://github.com/shartrooper/learning-sources-pickups/assets/21326996/23b83ca2-3659-4ff0-ab6d-5c04afd76495)## Data-intensive applications fundamental ##  
 Typically built from standard building blocks that provide commonly needed functionality. For example, many applications need to:
 * Store data so that they, or another application, can find it again later (databases)
 * Remember the result of an expensive operation, to speed up reads (caches)
@@ -46,5 +46,15 @@ users in a chat room, the hit rate on a cache, or something else.
 
 
 ![image](https://github.com/shartrooper/learning-sources-pickups/assets/21326996/e0f5200d-b25b-46c3-91e3-e06319a20028)
+
+## Describing perfomance
+
+* Once you have described the load on your system, you can investigate what happens
+when the load increases. You can look at it in two ways:
+- When you increase a load parameter and keep the system resources (CPU, mem‐
+ory, network bandwidth, etc.) unchanged, how is the performance of your system
+affected?
+- When you increase a load parameter, how much do you need to increase the
+resources if you want to keep performance unchanged?
 
 
