@@ -95,4 +95,16 @@ these plus many more issues.
 
 ## MAINTAINABILITY
 
+* To this end, we will pay particular attention to three design principles for software
+systems:
+__Operability__
+Make it easy for operations teams to keep the system running smoothly.
+__Simplicity__
+Make it easy for new engineers to understand the system, by removing as much
+complexity as possible from the system. (Note this is not the same as simplicity
+of the user interface.)
+__Evolvability__
+Make it easy for engineers to make changes to the system in the future, adapting
+it for unanticipated use cases as requirements change. Also known as extensibil‐
+ity, modifiability, or plasticity.
 
