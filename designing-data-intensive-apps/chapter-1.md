@@ -57,4 +57,42 @@ affected?
 - When you increase a load parameter, how much do you need to increase the
 resources if you want to keep performance unchanged?
 
+![image](https://github.com/shartrooper/learning-sources-pickups/assets/21326996/0e649dd1-34ac-4ab3-9018-3e4c894ef0ba)
+
+* __AMAZON EXAMPLE__: It’s important to keep those customers happy by ensuring the website is fast
+for them: Amazon has also observed that a 100 ms increase in response time reduces
+sales by 1%, and others report that a 1-second slowdown reduces a customer sat‐
+isfaction metric by 16%.
+
+* __Percentiles in Practice__:
+High percentiles become especially important in backend services that are called mul‐
+tiple times as part of serving a single end-user request. Even if you make the calls in
+parallel, the end-user request still needs to wait for the slowest of the parallel calls to
+complete. It takes just one slow call to make the entire end-user request slow, as illus‐
+trated in Figure 1-5. Even if only a small percentage of backend calls are slow, the
+chance of getting a slow call increases if an end-user request requires multiple back‐
+end calls, and so a higher proportion of end-user requests end up being slow (an
+effect known as tail latency amplification).
+If you want to add response time percentiles to the monitoring dashboards for your
+services, you need to efficiently calculate them on an ongoing basis. For example, you
+may want to keep a rolling window of response times of requests in the last 10
+minutes. Every minute, you calculate the median and various percentiles over the val‐
+ues in that window and plot those metrics on a graph.
+The naïve implementation is to keep a list of response times for all requests within the
+time window and to sort that list every minute. If that is too inefficient for you, there
+are algorithms that can calculate a good approximation of percentiles at minimal
+CPU and memory cost, such as forward decay, t-digest, or HdrHistogram
+. Beware that averaging percentiles, e.g., to reduce the time resolution or to com‐
+bine data from several machines, is mathematically meaningless—the right way of
+aggregating response time data is to add the histograms.
+
+* The architecture of systems that operate at large scale is usually highly specific to the
+application—there is no such thing as a generic, one-size-fits-all scalable architecture
+(informally known as magic scaling sauce). The problem may be the volume of reads,
+the volume of writes, the volume of data to store, the complexity of the data, the
+response time requirements, the access patterns, or (usually) some mixture of all of
+these plus many more issues.
+
+## MAINTAINABILITY
+
 
