@@ -73,6 +73,9 @@ Some useful code samples links and resources I stumble across browsing around I 
 ## GITHUB PAGES with Next.js
 [Source](https://www.freecodecamp.org/news/how-to-deploy-next-js-app-to-github-pages/)
 
+## Animations in React
+[Source](https://www.freecodecamp.org/news/create-animations-in-react/)
+
 # Code
 ## UseEffect lifecycle with timeout
 [Source](https://codesandbox.io/embed/amazing-shape-tigvln?fontsize=14&hidenavigation=1&theme=dark)
