@@ -76,6 +76,9 @@ Some useful code samples links and resources I stumble across browsing around I 
 ## Animations in React
 [Source](https://www.freecodecamp.org/news/create-animations-in-react/)
 
+## GO tools for FE projects
+[Source](https://www.freecodecamp.org/news/go-tools-for-your-frontend-projects/)
+
 # Code
 ## UseEffect lifecycle with timeout
 [Source](https://codesandbox.io/embed/amazing-shape-tigvln?fontsize=14&hidenavigation=1&theme=dark)
